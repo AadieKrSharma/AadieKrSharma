@@ -6,7 +6,7 @@ Freelance Software Developer Trainee
 
 A self-taught software developer who is passionate about Linux systems and proficient in cloud technologies: overcame challenges in a dynamic startup environment, refining skills in software development and embracing DevOps intricacies, seeking roles in Cloud Engineering or Software Development to contribute innovative solutions and continue growth in the evolving tech landscape. Hands-on experience demonstrates adaptability, learning agility, and excellence in challenging environments.
 
-* 🌍  I'm based in Prayagraj, Uttar Pradesh, India 🇮🇳
+* 🌍  I'm based in Prayagraj, Uttar Pradesh, India :India:
 * 🖥️  See my portfolio [Here](http://aadiekrsharma.github.io)
 * ✉️  You can contact me at [my Mail](mailto:sharma.kumaraaditya.5899@gmail.com)
 * 🚀  I'm currently working on [Various Projects](http://github.com/AadieKrSharma)
